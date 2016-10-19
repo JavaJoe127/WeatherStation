@@ -1,0 +1,5 @@
+C:\Users\ops\Documents\Visual Studio 2015\Projects\WeatherStation\WeatherStationWeb\WeatherStationReadDevice\bin\Debug\WeatherStationReadDevice.dll
+C:\Users\ops\Documents\Visual Studio 2015\Projects\WeatherStation\WeatherStationWeb\WeatherStationReadDevice\bin\Debug\WeatherStationReadDevice.pdb
+C:\Users\ops\Documents\Visual Studio 2015\Projects\WeatherStation\WeatherStationWeb\WeatherStationReadDevice\obj\Debug\WeatherStationReadDevice.csprojResolveAssemblyReference.cache
+C:\Users\ops\Documents\Visual Studio 2015\Projects\WeatherStation\WeatherStationWeb\WeatherStationReadDevice\obj\Debug\WeatherStationReadDevice.dll
+C:\Users\ops\Documents\Visual Studio 2015\Projects\WeatherStation\WeatherStationWeb\WeatherStationReadDevice\obj\Debug\WeatherStationReadDevice.pdb
